@@ -1,4 +1,4 @@
-# segment_tumor
+# tumor_finder
 
 Hi welcome to my tumor mask finder
 
